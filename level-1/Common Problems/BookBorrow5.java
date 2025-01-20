@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Created class for book borrow system
 class Book{
 	private String title;
 	private String author;
