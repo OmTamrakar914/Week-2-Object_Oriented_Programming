@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Created class for Hotel Booking system
 class HotelBooking{
 	String guestName;
 	String roomType;	
