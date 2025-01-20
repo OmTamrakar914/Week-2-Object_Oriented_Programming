@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//created a class Book 
 class Book{
 	private String title;
 	private String author;
