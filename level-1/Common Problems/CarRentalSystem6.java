@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// created Class for car rental system
 class CarRental{
 	private String customerName;
 	private String carModel;
