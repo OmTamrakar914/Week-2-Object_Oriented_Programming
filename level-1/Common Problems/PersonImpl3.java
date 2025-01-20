@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// created class for Person details
 class Person{
 	 String firstName;
 	 String lastName;
