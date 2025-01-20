@@ -1,5 +1,5 @@
+// created class for Product Inventory 
 public class ProductInventory_01{
-	
 	public static void main(String[] args){
 		//Creating class object
 		Product product1=new Product("Toy", 1000);
