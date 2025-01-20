@@ -1,5 +1,5 @@
 public class OnlineCourseManagement_02{
-	
+//created class for online course Management
 	public static void main(String[] args){
 		
 		//Calling methods:
