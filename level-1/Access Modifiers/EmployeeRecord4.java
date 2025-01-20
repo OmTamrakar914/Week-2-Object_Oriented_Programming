@@ -1,4 +1,4 @@
-// Base class: Employee
+// Base class Employee
 class Employee {
     public int employeeID;         // Public attribute
     protected String department;   // Protected attribute
