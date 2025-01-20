@@ -1,6 +1,6 @@
-
 import java.util.Scanner;
 
+// Created class for University Managemnet 
 public class UniversityManagementSystem1{
 	public static void main(String[]args){
 		Scanner sc = new Scanner(System.in);
